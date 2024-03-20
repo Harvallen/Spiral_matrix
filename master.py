@@ -19,3 +19,7 @@ for i in range(n):
     for j in range(m):
         print(matrix[i][j], end=' ')
     print()                                                                         # without ljust
+
+
+
+    # no slices
